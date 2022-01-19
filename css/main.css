@@ -1,0 +1,25 @@
+.navbar-nav > li{
+	padding-left:10px;
+	padding: right 10px;
+}
+.card-space {
+	/*margin: 5%;*/	
+	overflow: hidden;
+	padding: 8%;
+	background-image: url("../img/banner-1.png");
+	width:100%;
+}
+
+.container-fluid {
+	overflow: hidden;
+}
+
+.ref-style {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 20px;
+	color: #023470 !important;
+	
+}
+.text-container {
+	padding: 2%;
+}
