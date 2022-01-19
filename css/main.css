@@ -23,3 +23,8 @@
 .text-container {
 	padding: 2%;
 }
+
+.btn {
+	background-color: #023470 !important;
+	color: white !important;
+}
