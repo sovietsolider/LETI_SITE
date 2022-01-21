@@ -3,11 +3,14 @@
 	padding: right 10px;
 }
 .card-space {
-	/*margin: 5%;*/	
+	/*margin: 5%;*/
 	overflow: hidden;
-	padding: 8%;
+	padding: 14%;
 	background-image: url("../img/banner-1.png");
 	width:100%;
+	color: white;
+	font-size: 100px;
+	font-family:Georgia, 'Times New Roman', Times, serif
 }
 
 .container-fluid {
@@ -27,6 +30,10 @@
 .btn {
 	background-color: #023470 !important;
 	color: white !important;
+}
+
+.dropdown-menu a:active {
+	background-color: #023470 !important;
 }
 
 
